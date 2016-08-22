@@ -1,7 +1,11 @@
 Hi Git,
 
+<<<<<<< HEAD
+This is again modified conflict file in master
+=======
 This is modified conflict file in master
 
 Added some more event content in addEvent branc 
 
 Added upcoming eventsh
+>>>>>>> addEvents
